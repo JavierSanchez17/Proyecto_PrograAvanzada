@@ -58,7 +58,7 @@ while True:
         # En el método se verificará si los pokemon ya fueron enfrentados 
         # Si ya fueron enfrentados entonces los mostrara en pantalla 
         # De lo contrario no los mostrara
-        Pokedex('link1, link2...... link5')
+        Pokedex('link1', 'link2', 'link3', 'link4', 'link5')
 
     elif opcion == 4:
         # Mostrar menú para saber si quiere comprar objetos curativos o Poké Ball 
